@@ -1,0 +1,30 @@
+body {
+  font-family: "Bree Serif", serif;
+  text-align: center;
+  font: 16px arial, sans-serif;
+  background-color: #f2d1dd;
+  padding: 25px, 25px, 25px, 25px;
+  width: 500px;
+  margin: 75px;
+
+  /* border: 200px; */
+}
+h2 {
+  font-size: 250px;
+}
+button {
+  background-color: #991a48;
+  border: none;
+  color: white;
+  padding: 7px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+}
+button:hover {
+  background-color: rgb(238, 20, 96);
+  color: white;
+}
